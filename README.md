@@ -4,6 +4,7 @@
 
 
 Un Blog Increible Para El Curso De Git Y Github De Platzi
+Incluye ejemplos en windows, linux y mac
 
 > Hola, no sé que escribir jaja
 
